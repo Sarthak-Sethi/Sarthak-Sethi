@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Sarthak-Sethi</h1>
+<h1 align="center">Hi 👋, I'm Sarthak Sethi</h1>
 <h3 align="center">A passionate Android Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-sethi" alt="sarthak-sethi" /> </p>
