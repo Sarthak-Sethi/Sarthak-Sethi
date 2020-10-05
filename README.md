@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **Augmented Reality**
 
-- 🌱 I’m currently learning **Flutter and**
+- 🌱 I’m currently learning **Flutter and Unity**
 
 - 🤝 I’m looking for help with **Sceneform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarthak-Sethi?tab=repositories](https://github.com/Sarthak-Sethi?tab=repositories)
 
-- 💬 Ask me about **Android app , Java Data Structures , Augmented Reality**
+- 💬 Ask me about **Android app , Java Data Structures , Augmented Reality  **
 
 - 📫 How to reach me **er.sarthaksethi@gmail.com**
 
