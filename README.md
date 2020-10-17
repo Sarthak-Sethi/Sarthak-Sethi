@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Augmented Reality**
 
-- 🌱 I’m currently learning **Flutter and Unity**
+- 🌱 I’m currently learning **Junit**
 
 - 🤝 I’m looking for help with **Sceneform**
 
