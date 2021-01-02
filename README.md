@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-sethi" alt="sarthak-sethi" /> </p>
 
-- 🔭 I’m currently working on **Augmented Reality**
+- 🔭 I’m currently working on **Augmented Reality and machine learning**
 
-- 🌱 I’m currently learning **Junit**
+- 🌱 I’m currently learning **Junit Docker and springBoot**
 
 - 🤝 I’m looking for help with **Sceneform**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarthak-Sethi?tab=repositories](https://github.com/Sarthak-Sethi?tab=repositories)
 
-- 💬 Ask me about **Android app , Java Data Structures , Augmented Reality  **
+- 💬 Ask me about **Android app , Java , Data Structures , Augmented Reality  Python , Machine Learning SpringBoot , Docker Image processing , Deep Learning**
 
 - 📫 How to reach me **er.sarthaksethi@gmail.com**
 
