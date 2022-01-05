@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-sethi" alt="sarthak-sethi" /></a> </p>
 
-- 🔭 I’m currently working on **Machine learning and Augmented Reality**
+- 🔭 I’m currently working on **Angular and Android**
 
-- 🌱 I’m currently learning **Junit, Docker and springBoot**
+- 🌱 I’m currently learning **Docker,springBoot and AWS**
 
-- 🤝 I’m looking for help with **Sceneform**
+- 🤝 I’m looking for help with **Dyanmic Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarthak-Sethi?tab=repositories](https://github.com/Sarthak-Sethi?tab=repositories)
 
-- 💬 Ask me about **Android app , Java , Data Structures , Augmented Reality, Python , Machine Learning SpringBoot , Docker Image processing , Deep Learning**
+- 💬 Ask me about **Android app , Java , Data Structures , Augmented Reality, Python , Machine Learning,  SpringBoot , Docker Image processing , Angular, AWS**
 
 - 📫 How to reach me **er.sarthaksethi@gmail.com**
 
