@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarthak-Sethi</h1>
-<h3 align="center">I am a programming enthusiast who can easily adapt to different fields of work . I am well versed in Android App Development and like to solve the real life problems with the technical skills I have learnt</h3>
+<h3 align="center">Programming enthusiast who is easily adaptable to different work fields.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-sethi&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-sethi" /> </p>
 
