@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-sethi" alt="sarthak-sethi" /></a> </p>
 
-- 🔭 I’m currently working on **Angular and Android**
+- 🔭 I’m currently working on **Angular and Spring boot, Microservices**
 
 - 🌱 I’m currently learning **Docker,springBoot and AWS**
 
