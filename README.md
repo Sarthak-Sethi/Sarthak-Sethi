@@ -19,8 +19,18 @@
 
 - 📄 Know about my experiences [https://sarthaksethiportfolio.000webhostapp.com/](https://sarthaksethiportfolio.000webhostapp.com/)
 
-<h3 Competitive Programming </h3>
+<h3> Competitive Programming </h3>
 ![Leetcode Stats](https://leetcode.card.workers.dev/?username=ersarthaksethi)
+
+## Competitive Programming [here](https://www.google.com)
+- LeetCode : 500+ Problems (Data Structures and Algorithms)
+- Stopstalk Profile : All CP Profiles [here](https://www.stopstalk.com/user/profile/kiranpalsingh1806)
+- LeetCode : 3 Star ⭐⭐⭐(Highest Rating - 1633)
+- Codeforces : Newbie (Highest Rating - 1081)
+- CodeChef : 3 Star ⭐⭐⭐ (Highest Rating - 1697)
+- AtCoder : 9 Kyu (Highest Rating - 348)
+
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=kiranpalsingh1806)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
