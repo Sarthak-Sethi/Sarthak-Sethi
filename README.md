@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **er.sarthaksethi@gmail.com**
 
-- 📄 Know about my experiences [https://sarthaksethiportfolio.000webhostapp.com/](https://sarthaksethiportfolio.000webhostapp.com/)
-
 <h3> Competitive Programming </h3>
 
 
