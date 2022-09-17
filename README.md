@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sarthak-Sethi</h1>
-<h3 align="center">Programming enthusiast who is easily adaptable to different work fields.</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programming+enthusiast+;adaptable+to+different+work+fields.)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthak-sethi&label=Profile%20views&color=0e75b6&style=flat" alt="sarthak-sethi" /> </p>
 
