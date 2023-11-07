@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthak-sethi" alt="sarthak-sethi" /></a> </p>
 
-- 🔭 I’m currently working on **Angular and Spring boot, Microservices**
+- 🔭 I’m currently working on **Spring boot, Microservices**
 
-- 🌱 I’m currently learning **Docker,springBoot and AWS**
+- 🌱 I’m currently learning **Docker, Kafka and AWS**
 
 - 🤝 I’m looking for help with **Dyanmic Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarthak-Sethi?tab=repositories](https://github.com/Sarthak-Sethi?tab=repositories)
 
-- 💬 Ask me about **Android app , Java , Data Structures , Augmented Reality, Python , Machine Learning,  SpringBoot , Docker Image processing , Angular, AWS**
+- 💬 Ask me about **Java SpringBoot**
 
 - 📫 How to reach me **er.sarthaksethi@gmail.com**
 
